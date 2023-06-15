@@ -1,0 +1,21 @@
+file,jpn
+/foo/bar/JANISvisualize/ui.R,院内感染対策サーベイランス 手術部位感染部門
+/foo/bar/JANISvisualize/ui.R,グラフの縦幅
+/foo/bar/JANISvisualize/ui.R,グラフのフォントサイズ
+/foo/bar/JANISvisualize/server.R,各医療機関のSSI発生率の分布
+/foo/bar/JANISvisualize/server.R,集計対象医療機関数
+/foo/bar/JANISvisualize/server.R,(件)
+/foo/bar/JANISvisualize/server.R,年
+/foo/bar/JANISvisualize/server.R,SSI件数
+/foo/bar/JANISvisualize/server.R,種別
+/foo/bar/JANISvisualize/server.R,全ての手術手技
+/foo/bar/JANISvisualize/server.R,（
+/foo/bar/JANISvisualize/server.R,手術件数
+/foo/bar/JANISvisualize/server.R,年齢
+/foo/bar/JANISvisualize/server.R,(歳)
+/foo/bar/JANISvisualize/server.R,SSI発生率
+/foo/bar/JANISvisualize/server.R,データ
+/foo/bar/JANISvisualize/server.R,各医療機関の手術件数の分布
+/foo/bar/JANISvisualize/server.R,）
+/foo/bar/JANISvisualize/server.R,大分類
+/foo/bar/JANISvisualize/server.R,1. 全手術手技合計
